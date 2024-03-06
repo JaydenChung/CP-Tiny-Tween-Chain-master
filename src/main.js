@@ -1,6 +1,6 @@
 // Code Practice: Tiny Tween Chain
-// Name:
-// Date:
+// Name: Jayden Chung
+// Date: 3/6/2024
 
 // CODE ARMOR
 'use strict'
